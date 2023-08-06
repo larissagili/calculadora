@@ -1,3 +1,4 @@
+<style>
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
@@ -74,3 +75,4 @@ button.zero {
 button.dot {
   background-color: #444;
 }
+</style>
